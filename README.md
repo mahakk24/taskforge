@@ -5,8 +5,8 @@
 ![TaskForge Screenshot](![alt text](image.png))
 
 ## 🔗 Links
-- **Live App**: [your-app.up.railway.app](https://your-app.up.railway.app)
-- **API Docs**: [your-api.up.railway.app/docs](https://your-api.up.railway.app/docs)
+- **Live App**: [your-app.up.railway.app](handsome-reflection-production-0b6f.up.railway.app)
+- **API Docs**: [your-api.up.railway.app/docs](taskforge-production-0bf0.up.railway.app)
 - **GitHub**: this repo
 
 ---
