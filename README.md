@@ -2,7 +2,7 @@
 
 > A full-stack team task management system with role-based access control, Kanban board view, and real-time project dashboards.
 
-![TaskForge Screenshot](https://via.placeholder.com/1200x630/080a0f/6366f1?text=TaskForge)
+![TaskForge Screenshot](![alt text](image.png))
 
 ## 🔗 Links
 - **Live App**: [your-app.up.railway.app](https://your-app.up.railway.app)
